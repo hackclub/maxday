@@ -1,0 +1,41 @@
+{
+  "name": "future",
+  "description": "My future",
+  "version": "1.0.0",
+  "author": "Lachlan Campbell",
+  "private": true,
+  "dependencies": {
+    "@hackclub/design-system": "^0.0.1-8",
+    "gatsby": "^1.9.184",
+    "gatsby-link": "^1.6.36",
+    "gatsby-plugin-react-helmet": "^2.0.4",
+    "gatsby-plugin-styled-components": "^2.0.5",
+    "gatsby-remark-images": "^1.5.43",
+    "gatsby-remark-smartypants": "^1.4.10",
+    "gatsby-source-filesystem": "^1.5.18",
+    "gatsby-transformer-remark": "^1.7.31",
+    "lodash": "^4.17.5",
+    "react-helmet": "^5.2.0",
+    "serve": "^6.4.9",
+    "styled-components": "^3.1.6"
+  },
+  "devDependencies": {
+    "prettier": "^1.10.2"
+  },
+  "homepage": "https://lachlanjc.me/edu/future",
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lachlanjc/edu.git"
+  },
+  "scripts": {
+    "dev": "gatsby develop",
+    "fmt": "prettier --no-semi --single-quote --write 'src/**/*.js' 'days/**/*.md'",
+    "build": "gatsby build",
+    "start": "serve public"
+  }
+}
