@@ -14,8 +14,8 @@ export default ({ data }) => {
       <Container maxWidth={36} p={3}>
         <Helmet title={`Title`} />
         <Card.a bg="white" p={4} mx={[-3, -4]}>
-          <Heading.h1 f={6} m={0}>
-            From {author}
+          <Heading.h1 color="primary" f={4} m={0} caps>
+            {author}
           </Heading.h1>
           <Body mt={2} dangerouslySetInnerHTML={{ __html: html }} />
         </Card.a>

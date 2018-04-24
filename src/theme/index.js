@@ -5,17 +5,14 @@ import theme from './config'
 injectGlobal`
   body {
     font-family: ${theme.font};
-    background-color: ${theme.colors.primary};
-    background-image: linear-gradient(32deg, #66a5ff, #0069ff);
+    background-color: #FF16D1;
+    background-image: linear-gradient(64deg, #FF16D1, #592DEA);
     min-height: 100vh;
     color: ${theme.colors.black};
     line-height: 1.6;
   }
   * {
     box-sizing: border-box;
-  }
-  h1, h2, h3 {
-  	font-weight: 800 !important;
   }
   a {
     box-shadow: none;
@@ -27,11 +24,15 @@ injectGlobal`
     padding: 0;
   }
   img {
-  	max-width: 100%;
+    max-width: 100%;
   }
   article {
-    border-radius: 0 !important;
-    box-shadow: .5rem .5rem 0 rgba(0,0,0,.25) !important;
+    border-radius: 8px !important;
+    box-shadow: ${theme.boxShadows[1]};
+    transition: box-shadow .125s ease-out;
+    &:hover {
+      box-shadow: ${theme.boxShadows[2]};
+    }
   }
 `
 

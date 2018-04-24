@@ -10,6 +10,10 @@ const Cards = Box.withComponent('main').extend`
       margin-bottom: 1rem;
     }
   }
+  h1:first-child,
+  h3:first-child {
+    text-transform: capitalize;
+  }
   ${props => props.theme.mediaQueries.sm} {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));

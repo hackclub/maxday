@@ -20,9 +20,9 @@ const Future = Text.withComponent(Link).extend`
   }
 `
 
-const title = 'Future – @lachlanjc'
+const title = 'Happy birthday!!'
 const description =
-  'Some predictions for the future of my life. By Lachlan Campbell.'
+  'Max, you pour your heart and soul into Hack Club. Thank you, from all of ours.'
 const img = '/card.png'
 
 const Template = ({ children, ...props }) => (
@@ -43,13 +43,13 @@ const Template = ({ children, ...props }) => (
     >
       <meta charSet="UTF-8" />
       <meta name="viewport" content="width=device-width,initial-scale=1" />
+      <link rel="stylesheet" href="/fonts.css" />
     </Helmet>
-    <Future to="/" color="snow" f={[5, 6]} m={3} py={1} caps>
-      Future
+    <Future to="/" color="snow" f={[5, 6, 7]} m={3} py={1} caps>
+      🎂🎈🎁🌟
     </Future>
     <Bio />
     {children()}
   </ThemeProvider>
 )
-
 export default Template
