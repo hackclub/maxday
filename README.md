@@ -1,5 +1,5 @@
-# future
+# maxday
 
-Some predictions for my life.
+Happy birthday, Max. 🎂
 
 MIT License

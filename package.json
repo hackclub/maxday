@@ -1,6 +1,6 @@
 {
-  "name": "future",
-  "description": "My future",
+  "name": "maxday",
+  "description": "Happy birthday, Max",
   "version": "1.0.0",
   "author": "Lachlan Campbell",
   "private": true,
@@ -22,7 +22,7 @@
   "devDependencies": {
     "prettier": "^1.10.2"
   },
-  "homepage": "https://lachlanjc.me/edu/future",
+  "homepage": "https://maxday.hackclub.com",
   "keywords": [
     "gatsby"
   ],
@@ -30,7 +30,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lachlanjc/edu.git"
+    "url": "https://github.com/zanedb/maxday"
   },
   "scripts": {
     "dev": "gatsby develop",
