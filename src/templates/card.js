@@ -7,9 +7,9 @@ import Body from '../components/Body'
 
 Card.a = Card.withComponent('article')
 
-export default ({ data: { markdownRemark } }) => {
-  if (markdownRemark) {
-    const { frontmatter: { author }, html } = markdownRemark
+export default ({ data }) => {
+  if (data.markdownRemark) {
+    const { frontmatter: { author }, html } = data.markdownRemark
     return (
       <Container maxWidth={36} p={3}>
         <Helmet title={`Title`} />
