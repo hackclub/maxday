@@ -27,7 +27,7 @@ export default ({ data: { markdownRemark } }) => {
 }
 
 export const pageQuery = graphql`
-  query ByAuthor($author: Int!) {
+  query ByAuthor($author: String!) {
     markdownRemark(frontmatter: { author: { eq: $author } }) {
       html
       frontmatter {
