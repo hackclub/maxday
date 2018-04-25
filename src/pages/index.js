@@ -9,6 +9,11 @@ Card.a = Card.withComponent('article')
 
 export default ({ data: { allMarkdownRemark: { edges } } }) => (
   <Cards>
+    <Card.a p={4} bg="white" style={{ gridColumn: 'span 2' }}>
+      <Heading.h3 f={5} mb={1} color="primary" align="center" caps>
+        <a href="https://github.com/hackclub/maxday">Leave a Card</a>
+      </Heading.h3>
+    </Card.a>
     {edges.map(({ node: { excerpt, frontmatter: { author } } }) => (
       <Card.a p={4} bg="white" key={author}>
         <Heading.h3 f={5} mb={1} color="primary">
