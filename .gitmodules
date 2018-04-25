@@ -1,0 +1,3 @@
+[submodule "maxday"]
+	path = maxday
+	url = https://github.com/mj66/maxday
