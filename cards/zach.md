@@ -13,6 +13,8 @@ you are in a boat
 
 Max, truth is you've been there since what feels like day one and there's no question Hack Club wouldn't be what it is today without you (can you believe this card exists?!).
 
-Happy birthday. To many dreams and sleepless nights yet to come. Feels like we're still just at the beginning and I know we'll look back on today embarrassed by how little we knew. Couldn't imagine anyone better to build this organization with.
+Happy birthday. To many dreams and sleepless nights yet to come. Feels like we're still just at the beginning and I know we'll look back on today embarrassed by how little we knew.
+
+Couldn't imagine anyone better to build this organization with.
 
 \- @zrl
