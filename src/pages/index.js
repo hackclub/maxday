@@ -16,6 +16,7 @@ Card.a = Card.withComponent('article')
 
 export default ({ data: { allMarkdownRemark: { edges } } }) => (
   <Box.main align="center">
+    <Helmet title={`Happy birthday, Max!`} />
     <LargeButton
       inverted
       href="https://github.com/hackclub/maxday"

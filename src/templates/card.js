@@ -12,7 +12,7 @@ export default ({ data }) => {
     const { frontmatter: { author }, html } = data.markdownRemark
     return (
       <Container maxWidth={36} p={3}>
-        <Helmet title={`Title`} />
+        <Helmet title={`Happy birthday, Max!`} />
         <Card.a bg="white" p={4} mx={[-3, -4]}>
           <Heading.h1 color="primary" f={4} m={0} caps>
             {author}
