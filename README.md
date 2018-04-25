@@ -12,7 +12,7 @@ Name the file after your first name, and place the following lines at the start 
     author: 'your first name, same as filename'
     ---    
 
-Check out this [Mingjie's card](https://github.com/hackclub/maxday/blob/master/cards/mingjie.md) as an example of how to write one.
+Check out [Mingjie's card](https://github.com/hackclub/maxday/blob/master/cards/mingjie.md) as an example of how to write one, or view the [instructions page](https://maxday.hackclub.com/instructions).
 
 ## Site Setup
 
