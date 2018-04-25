@@ -22,4 +22,4 @@ When you've done that, just submit a PR and you're good to go!
 ## Ready?
 ### [Create your own card!](https://github.com/hackclub/maxday/new/master/cards)
 
-If you like this project, be sure to check out [Hack Club](https://hackclub.com), the non-profit teaching high school students to code.
+Take a look at the [source code](https://github.com/hackclub/maxday) for this project.
