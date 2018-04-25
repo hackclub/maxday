@@ -21,12 +21,8 @@ Check out [Mingjie's card](https://github.com/hackclub/maxday/blob/master/cards/
 git clone https://github.com/hackclub/maxday
 cd maxday
 ```
-2. Update submodules (this may take a little while)
-```
-git submodule init && git submodule update
-```
-3. Install packages & run
+2. Install packages & run
 ```
 yarn && yarn run dev
 ```
-4. It should now be running, open [localhost:8000](http://localhost:8000) to view it
+3. It should now be running, open [localhost:8000](http://localhost:8000) to view it
