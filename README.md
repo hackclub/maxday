@@ -2,11 +2,21 @@
 
 Happy birthday, Max. 🎂
 
-## Setup
+Welcome! April 25 is [Max Wofford](https://maxwofford.com/)'s birthday, and the goal of this site (and this repository) is to display his birthday wishes.
+
+### Leave a birthday wish by creating a file [in cards](https://github.com/hackclub/maxday/tree/master/cards)
+
+Name the file after your first name, and place the following lines at the start of it:
+
+    ---
+    author: 'your first name, same as filename'
+    ---    
+
+## Site Setup
 
 1. Clone the repository and enter it
 ```
-git clone https://github.com/zanedb/maxday
+git clone https://github.com/hackclub/maxday
 cd maxday
 ```
 2. Update submodules (this may take a little while)
