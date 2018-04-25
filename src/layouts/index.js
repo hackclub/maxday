@@ -21,7 +21,7 @@ const Future = Text.withComponent(Link).extend`
 `
 
 const Footer = () => (
-  <Text color="snow" f={2} align="center" mt={4}>
+  <Text color="snow" f={2} align="center" mt={4} mb={30}>
     Made by your friends and community.
   </Text>
 )
