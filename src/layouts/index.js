@@ -20,6 +20,12 @@ const Future = Text.withComponent(Link).extend`
   }
 `
 
+const Footer = () => (
+  <Text color="snow" f={2} align="center" mt={4}>
+    Made by your friends and community.
+  </Text>
+)
+
 const title = 'Happy birthday!!'
 const description =
   'Max, you pour your heart and soul into Hack Club. Thank you, from all of ours.'
@@ -50,6 +56,7 @@ const Template = ({ children, ...props }) => (
     </Future>
     <Bio />
     {children()}
+    <Footer />
   </ThemeProvider>
 )
 export default Template
