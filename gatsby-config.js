@@ -3,7 +3,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        path: `${__dirname}/maxday/cards`,
+        path: `${__dirname}/cards`,
         name: 'cards'
       }
     },
