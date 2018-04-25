@@ -14,12 +14,12 @@ module.exports = props =>
         padding,
         width,
         height: width,
-        backgroundColor: '#0069ff',
-        backgroundImage: 'linear-gradient(32deg, #66a5ff, #0069ff)'
+        backgroundColor: '#FF16D1',
+        backgroundImage: 'linear-gradient(64deg, #FF16D1, #592DEA)'
       }
     },
     h('img', {
-      src: 'https://icon.now.sh/history/ffffff',
+      src: 'https://icon.now.sh/cake/ffffff',
       style: { width: widthIcon }
     })
   )
