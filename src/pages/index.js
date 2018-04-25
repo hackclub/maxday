@@ -19,8 +19,7 @@ export default ({ data: { allMarkdownRemark: { edges } } }) => (
     <Helmet title={`Happy birthday, Max!`} />
     <LargeButton
       inverted
-      href="https://github.com/zanedb/maxday#leave-a-birthday-wish-by-creating-a-file-in-cards"
-      target="_blank"
+      href="/instructions"
       mb={4}
     >
       Leave a Card
