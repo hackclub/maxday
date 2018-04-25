@@ -12,6 +12,8 @@ Name the file after your first name, and place the following lines at the start 
     author: 'your first name, same as filename'
     ---    
 
+Check out this [Mingjie's card](https://github.com/hackclub/maxday/blob/master/cards/mingjie.md) as an example of how to write one.
+
 ## Site Setup
 
 1. Clone the repository and enter it
