@@ -1,5 +1,5 @@
 ---
-author: 'Anton'
+author: 'anton'
 ---
 
 # Hey max, :wave:
