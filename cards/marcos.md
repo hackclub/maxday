@@ -1,5 +1,5 @@
 ---
-author: 'Marcos'
+author: 'marcos'
 ---
 
 # Happy birthday Max! ✨
