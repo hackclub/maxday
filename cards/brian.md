@@ -1,5 +1,5 @@
 ---
-author: 'brian (jingje/jingjerbread)'
+author: 'brian'
 ---
 
 Happy birthday! Bask in the inevitability of linear time! 
