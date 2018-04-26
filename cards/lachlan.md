@@ -1,5 +1,5 @@
 ---
-author: 'Lachlan'
+author: 'lachlan'
 ---
 
 Max, I hope you're having an awesome day, because you totally deserve it. 
