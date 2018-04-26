@@ -46,7 +46,7 @@ export default () => (
         ---<br/>
       </code>
       <br/>
-      When you’ve done that, just submit a PR and you’re good to go!
+      When you’ve done that, just submit a PR and you’re good to go! (Make sure your name is entered in lowercase)
       <br/><br/>
       <Heading.h3>
         Ready?
