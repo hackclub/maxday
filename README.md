@@ -1,4 +1,4 @@
-# maxday
+# [maxday](https://maxday.hackclub.com)
 
 Happy birthday, Max. 🎂
 
