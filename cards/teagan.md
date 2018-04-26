@@ -1,5 +1,5 @@
 ---
-author: teagan
+author: 'teagan'
 ---
 
 # Happy Birthday Max!!!
