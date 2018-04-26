@@ -1,5 +1,5 @@
 ---
-author: 'Danny'
+author: 'danny'
 ---
 
 Hello CakeSpy ( ͡° ͜ʖ ͡°)
