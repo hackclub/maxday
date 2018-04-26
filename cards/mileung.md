@@ -1,5 +1,5 @@
 ---
-author: 'MiLeung'
+author: 'mileung'
 ---
 
 # Happy Birthday Max!
