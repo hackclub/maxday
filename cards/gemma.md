@@ -1,5 +1,5 @@
 ---
-author: 'Gemma'
+author: 'gemma'
 ---
 Cumpleaños feliz!!! Omg, we've known each other so long now. Watching Hack Club grow and thrive warms my heart more than anything else, and I'm so thankful for your part in it and for being my friend.
 
