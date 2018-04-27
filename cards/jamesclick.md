@@ -1,5 +1,5 @@
 ---
-author: 'James Click'
+author: 'jamesclick'
 ---
 
 Max,
