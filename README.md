@@ -1,6 +1,6 @@
 # [maxday](https://maxday.hackclub.com)
 
-Happy birthday, Max. 🎂
+Happy birthday, Max! 🎂
 
 Welcome! April 25 is [Max Wofford](https://maxwofford.com/)'s birthday, and the goal of this site (and this repository) is to display his birthday wishes.
 
